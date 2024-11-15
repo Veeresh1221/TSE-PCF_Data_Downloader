@@ -1,0 +1,27 @@
+[Download]
+url1 = https://inav.ice.com/pcf-download/all/all_pcf_YYYYMMDD.zip
+url2 = https://www.solactive.com/downloads/etfservices/tse-pcf/bulk/YYYY-MM-DD.zip
+url3 = https://api.ebs.ihsmarkit.com/inav/getfile?filename=all_pcf_YYYYMMDD.zip
+
+[Date]
+date =
+
+[Database]
+host =
+username = 
+password = 
+databasename = 
+
+[Email]
+sender_email = 
+sender_password = 
+smtp_server = 
+smtp_port =
+
+[Recipients]
+recipients = 
+
+[Folders]
+log = 
+data =
+

@@ -1,0 +1,6 @@
+#log and data 
+/data/
+/logs/
+**/__pycache__/
+*.key
+*.ini
