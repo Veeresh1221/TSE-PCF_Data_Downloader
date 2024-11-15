@@ -128,13 +128,3 @@ To execute the script manually, run:
 ## Contact  
 For further assistance, please contact the repository owner at [veereshvkanakalamath2@gmail.com](mailto:veereshvkanakalamath2@gmail.com).  
 
---- 
-
-### `requirements.txt` File  
-
-```plaintext  
-requests==2.28.1  
-mysql-connector-python==8.0.30  
-sqlalchemy==2.0.1  
-python-dotenv==0.21.0  
-```  
