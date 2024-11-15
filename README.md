@@ -1,7 +1,3 @@
-Here is a sample `README.md` file for your project:  
-
----
-
 # TSE-PCF Data Downloader  
 
 This project automates the process of downloading and inserting Portfolio Composition File (PCF) data from the JPX website into a database. The script runs daily at 4:00 PM from Monday to Friday and sends an email notification upon task completion.  
@@ -130,7 +126,7 @@ To execute the script manually, run:
 ---
 
 ## Contact  
-For further assistance, please contact the repository owner at [your-email@example.com](mailto:your-email@example.com).  
+For further assistance, please contact the repository owner at [veereshvkanakalamath2@gmail.com](mailto:veereshvkanakalamath2@gmail.com).  
 
 --- 
 
