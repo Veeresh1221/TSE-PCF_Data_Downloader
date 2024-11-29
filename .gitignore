@@ -1,6 +1,14 @@
-#log and data 
+# Exclude the data directory
 /data/
+
+# Exclude the logs directory
 /logs/
+
+# Exclude compiled Python cache files
 **/__pycache__/
+
+# Exclude all key files
 *.key
+
+# Exclude all INI files globally
 *.ini
