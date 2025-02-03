@@ -47,7 +47,7 @@ def main():
 
 
     finally:
-        # ?send_email(subject, message, ini_file_path)
+        send_email(subject, message, ini_file_path)
         # Format the current time and construct the log filename
         now = strftime("%Y-%m-%d_%H-%M-%S", gmtime())  
         log_filename = os.path.join(log_file_dir, f"tsepcf_log_{now}.log")
