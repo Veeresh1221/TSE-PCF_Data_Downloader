@@ -46,7 +46,7 @@ Edit the necessary configuration files to set up email, database, logging, and d
 - Update the database connection details:  
   - Username  
   - Password  
-  - Database name  
+  - Database name
 
 #### Log Folder  
 - Specify the directory path to store execution logs.  
@@ -109,8 +109,8 @@ TSE-PCF_Data_Downloader/
 │   ├── config.ini  
 │   └── ...  
 ├── auto_download.sh  
-├── logs/  
-├── data/  
+├── logs/    # Path for log and dat must be specified in config.ini 
+├── dat/  
 ├── requirements.txt  
 └── README.md  
 ```  
